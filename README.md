@@ -32,7 +32,7 @@
 
 | # | 论文 | 链接 | 状态 |
 |---|---|---|---|
-| 01 | Memory in the Age of AI Agents: A Survey | [2512.13564](https://arxiv.org/abs/2512.13564) | ⬜ |
+| 01 | Memory in the Age of AI Agents: A Survey | [2512.13564](https://arxiv.org/abs/2512.13564) | 🔄 |
 | 02 | Survey on Evaluation of LLM-based Agents（Yehudai et al.） | [2503.16416](https://arxiv.org/abs/2503.16416) | ⬜ |
 | 03 | Evaluation and Benchmarking of LLM Agents: A Survey | [2507.21504](https://arxiv.org/abs/2507.21504) | ⬜ |
 
